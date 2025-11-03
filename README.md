@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Manish CP</h1>
-<h3 align="center">A passionate Full Stack Developer with proficiency in Java and Python</h3>
+<h3 align="center">Full-Stack Software Engineer | Python, React, AWS, and Cloud-Native Systems</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-- 🔭 I’m currently working on **Java, Spring Boot, Figma projects**
+- 🔭 I’m currently working on **building scalable, reliable, and user-focused full-stack applications**
 
-- 🌱 I’m currently learning **Enterprise Software Design, User Experience Design and Testing**
+- 🌱 I’m currently learning **Scalable Systems Design, API Architecture, Agentic AI, and DevOps workflows**
 
-- 👯 I’m looking to collaborate on **Spring Boot and MERN stack projects**
+- 👯 I’m looking to collaborate on **Python, React, and cloud-native full-stack projects**
 
-- 💬 Ask me about **HTML/CSS, JS, Java, Python**
+- 💬 Ask me about **AsyncIO, REST APIs, React, AWS, or software design patterns**
 
-- 📫 How to reach me **chikkavadaragudipr.m@northeastern.edu**
+- 📫 Reach me at **manishcp77@gmail.com**
   
 - 💼 Check out my Portfolio [ManishPortfolio](https://manishcp.github.io/manishportfolio/)
 
-- 📄 Checkout my resume [Manish_FullStackDeveloper_Resume](https://drive.google.com/file/d/1SRDNNmR5qkkkrDD6dWih-sV_WWMB8Ufn/view?usp=sharing)
+- 📄 Checkout my resume [ManishCP_Resume](https://drive.google.com/file/d/1dpoqQX4hy1aTCqOgXiWl6vqdiNq8aeui/view?usp=sharing)
 
 - ⚡ Fun fact **I am damn funny!!**
 
